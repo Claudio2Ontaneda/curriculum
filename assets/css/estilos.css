@@ -1,0 +1,94 @@
+body{
+    font-family: "Roboto", "Roboto-light", "Roboto-medium", sans-serif;
+    font-weight: 300 500;
+    font-style: normal;
+
+.roboto-light{
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+}
+
+.menu {
+width: 150px;
+height: auto;
+margin-right:30px;
+display: flex;
+}
+
+a:hover{
+ border: 2px solid white;
+}
+.card{
+  width: 100%;
+  color: #707070;
+  border-color: #c9c3c3;
+}
+p{
+  text-align: justify;
+}
+.carusel{
+  width: 700px;
+  margin: 100px;
+  
+}
+h2{
+  text-align: center;
+  margin-bottom: -20%;
+  margin-left: 5%;
+}
+.datos{
+  margin-left: 15%;
+  margin-bottom: 15%;
+}
+.datos1 {
+  margin-left: 3%;
+}
+ol{
+  margin-left: 2%;
+  text-align: justify;
+  width: 150%;
+}
+article{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50px;
+}
+ #portafolio {
+  margin: 10%;
+
+}
+a{
+  text-decoration: none;
+  color: black  ;
+}
+.tarjeta{
+  width: 200%;
+  height: 400px;
+}
+.tar-fluid{
+  width: 200%;
+}
+.lista{
+  margin-left: 24px;
+}
+footer{
+  background: black;
+  height: 100px;
+  color: aliceblue;
+}
+.pie{
+  font-size: 20px;
+  text-align: center;
+}
+.curi{
+  margin: 10px;
+}
